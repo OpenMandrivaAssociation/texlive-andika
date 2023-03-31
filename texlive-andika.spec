@@ -1,6 +1,6 @@
 Name:		texlive-andika
 Version:	64540
-Release:	1
+Release:	2
 Summary:	andika fonts with support for all LaTeX engines
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/andika
