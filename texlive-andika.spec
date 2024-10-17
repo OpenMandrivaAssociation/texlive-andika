@@ -3,7 +3,7 @@ Version:	64540
 Release:	2
 Summary:	andika fonts with support for all LaTeX engines
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/andika
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/andika
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/andika.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/andika.doc.r%{version}.tar.xz
